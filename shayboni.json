@@ -1,0 +1,51 @@
+[
+    {
+        "id": "asos",
+        "title": "Shayboniylar asoschisi",
+        "text": "Shayboniylar davlatining asoschisi Muhammad Shayboniyxondir. U Chingizxonga qarindosh bo‘lib, Jo‘ji xonning avlodidan hisoblanadi.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Muhammad_Shaybani.jpg",
+        "button": "Batafsil"
+    },
+    {
+        "id": "qachon",
+        "title": "Shayboniylar qachon hukmronlik qilgan?",
+        "text": "Shayboniylar sulolasi XV asr oxiri va XVI asr boshlarida hukmronlik qilgan. 1500-yilda Movarounnahrni egallab, Buxoroda o‘z hukmronligini o‘rnatgan.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyeqtiwlk8YuEWNspAR9nGstWqw72mAmThA&s",
+        "button": "Batafsil"
+    },
+    {
+        "id": "egalash",
+        "title": "Movarounnahrni egallash",
+        "text": "Muhammad Shayboniyxon 1500-yilda Samarqand va Buxoroni egallab, Temuriylar davlatiga barham bergan.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Uzbekistan_map.png/300px-Uzbekistan_map.png",
+        "button": "Batafsil"
+    },
+    {
+        "id": "poytaxt",
+        "title": "Shayboniylar davlatining poytaxtlari",
+        "text": "Dastlab Buxoro, keyinroq Samarqand va Toshkent shaharlarini o‘zining asosiy poytaxti sifatida belgilagan.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Registan_Samarkand.jpg/300px-Registan_Samarkand.jpg",
+        "button": "Batafsil"
+    },
+    {
+        "id": "Avlod",
+        "title": "Shayboniylar avlodlari",
+        "text": "Shayboniylar Chingizxonning avlodi bo‘lib, Jo‘ji xonning naslidan bo‘lgan. Ular Oltin O‘rda va Movarounnahrda hukmronlik qilishgan.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_Horde.png/300px-Golden_Horde.png",
+        "button": "Batafsil"
+    },
+    {
+        "id": "Din",
+        "title": "Shayboniylar davrida din va madaniyat",
+        "text": "Islom dini davlat dini sifatida saqlangan. Shayboniylar davrida ilm-fan, madaniyat va arxitektura rivoj topgan.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uzbekistan_madrasa.jpg/300px-Uzbekistan_madrasa.jpg",
+        "button": "Batafsil"
+    },
+    {
+        "id": "vafod",
+        "title": "Muhammad Shayboniyxonning vafoti",
+        "text": "Muhammad Shayboniyxon 1510-yilda Eron shohi Ismoil I bilan jangda halok bo‘lgan.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Battle_of_Marv.jpg/300px-Battle_of_Marv.jpg",
+        "button": "Batafsil"
+    }
+]
